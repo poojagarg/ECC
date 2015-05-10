@@ -1,0 +1,19 @@
+7
+2
+2
+1
+6
+3
+0
+4
+1
+2
+6
+11
+
+Prime p: 7 
+positive integer m: 2
+if(m>1), irreducible polynomial of deg m: X^2+6*X+3
+element A- degree of A, followed by co-efficients: 4 
+element B- degree of B, followed by co-efficients: 2*X+6
+Integer n(for scalar multiplication): 11

@@ -1,0 +1,52 @@
+7919
+1
+0
+1001
+0
+75
+0
+1
+0
+4023
+0
+6036
+0
+4135
+0
+3169
+7889
+
+Input 1 
+_______
+
+599
+1
+0
+0
+0
+1
+0
+1
+0
+60
+0
+19
+0
+277
+0
+239
+600
+
+Input 2
+_________
+
+Prime p
+m
+if(m>1), give irreducible polynomial
+A
+B
+type of curve= 0
+degree d= 1 so E(Fp^(m*d))
+(x1,y1)=P
+(x2,y2)=Q
+n=Ord(P)

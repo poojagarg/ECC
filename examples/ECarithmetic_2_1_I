@@ -1,0 +1,54 @@
+2
+4
+4
+1
+0
+0
+1
+1
+3
+1
+0
+0
+0
+3
+1
+0
+0
+1
+1
+1
+1
+1
+0
+3
+1
+1
+1
+1
+3
+1
+1
+0
+0
+3
+1
+1
+0
+0
+0
+1
+1
+1
+0
+
+Prime p: 2 
+positive integer m: 4
+if(m>1), irreducible polynomial of deg m: x^4+x+1
+element A- degree of A, followed by co-efficients: x^3 
+element B- degree of B, followed by co-efficients: x^3 + 1
+type 1, so no input for C
+degree d: 1
+P (x1,y1): (0010, 1111) which is (x,x^3+x^2+x+1)
+Q (x2,y2): (1100, 1100)
+T (x3,y3): (0001, 0010) //It is not a point, you may check that (0001, 0001) is a point

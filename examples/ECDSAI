@@ -1,0 +1,36 @@
+7
+2
+2
+1
+6
+3
+1
+2
+3
+1
+5
+4
+0
+1
+0
+2
+1
+2
+3
+59
+41
+28
+4
+
+Prime p: 7 
+positive integer m: 2
+if(m>1), irreducible polynomial of deg m: X^2+6*X+3
+element A- degree of A, followed by co-efficients: 2*X+3 
+element B- degree of B, followed by co-efficients: 5*X+4
+type 0
+degree d: 1
+Base Point (x,y) (2,2*x+3)
+Integer n=Order(P): 59
+Integer Message m, m<n: 41
+Integer s of Signature: 28
+Integer r of Signature: 4

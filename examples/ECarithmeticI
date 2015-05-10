@@ -1,0 +1,38 @@
+7
+2
+2
+1
+6
+3
+1
+2
+3
+1
+5
+4
+0
+1
+0
+2
+1
+2
+3
+0
+1
+0
+6
+0
+1
+0
+7
+
+Prime p: 7 
+positive integer m: 2
+if(m>1), irreducible polynomial of deg m: X^2+6*X+3
+element A- degree of A, followed by co-efficients: 2*X+3 
+element B- degree of B, followed by co-efficients: 5*X+4
+type 0
+degree d: 1
+P (x1,y1): (2,2*X+3)
+Q (x2,y2): (1,6)
+T (x3,y3): (1,7) //not a point, you may check that (6*X+3,6*X+2) is a point

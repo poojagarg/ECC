@@ -1,0 +1,67 @@
+2
+7
+7
+1
+0
+0
+0
+0
+0
+1
+1
+5
+1
+0
+0
+0
+1
+0
+5
+1
+0
+0
+0
+1
+1
+2
+2
+1
+0
+1
+1
+2
+1
+0
+0
+3
+1
+1
+0
+1
+5
+1
+1
+1
+1
+0
+1
+5
+1
+0
+1
+0
+0
+1
+145
+
+Prime p: 2 
+positive integer m: 7
+if(m>1), irreducible polynomial of deg m: x^7+x+1
+element A- degree of A, followed by co-efficients: x^5+x 
+element B- degree of B, followed by co-efficients: x^5+ x + 1
+type of curve- 2
+element C- degree of B, followed by co-efficients: x^2 + 1
+degree d: 1
+P (x1,y1): (100,1101) which is (x^2,x^3+x^2+1)
+Q (x2,y2): (111101, 101001)
+order(P)=145
